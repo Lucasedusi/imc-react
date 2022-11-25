@@ -14,15 +14,8 @@ export default createGlobalStyle`
 
   html, body, input, button {
     font-family: 'Roboto', sans-serif;
-    height: 100%;
-    display: flex;
-    justify-content: center;
   }
 
-  #root {
-    margin: auto;
-
-  }
 
   button {
     cursor: pointer;
